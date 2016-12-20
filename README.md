@@ -1,4 +1,4 @@
-# Industrial_Production_Index_Time-series_data_2008_-_2014
+# industrial_production_index_time-series_data_2008-2014
 　【和歌山県　鉱工業生産指数 です。】
 ◆鉱工業生産指数とは
 鉱工業生産指数は、鉱工業の生産動向の水準を把握することを目的として、月々の鉱工業生産活動にかかる数量を、ある一定時期を基準にして指数化したもので、経済指標の中で重要なもののひとつとされています。
